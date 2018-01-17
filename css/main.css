@@ -189,7 +189,7 @@ body {
   font-size: 14px;
   line-height: 2;
   color: #555;
-  background: linear-gradient(#82eaf8, transparent), linear-gradient(60deg, #87ceeb, transparent), linear-gradient(-90deg, #ff7f50, transparent);
+  background: linear-gradient(#90f4f1, transparent), linear-gradient(90deg, #d8d092, transparent), linear-gradient(-90deg, #e58761, transparent);
 }
 @media (max-width: 767px) {
   body {
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff916a;
+  background: #04bd91;
 }
 .links-of-blogroll {
   font-size: 13px;
