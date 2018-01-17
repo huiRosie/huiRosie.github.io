@@ -3,7 +3,7 @@
   <title>huiRosie</title>
   
   <subtitle>Rosie</subtitle>
-  <link href="https://huirosie.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2018-01-17T03:48:34.016Z</updated>
